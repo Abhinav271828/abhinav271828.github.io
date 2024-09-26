@@ -11,4 +11,4 @@ Hey! I'm Abhinav (aka Bani), and I'm currently pursuing my Master's in IIIT Hyde
 
 My current degree is an integrated Bachelor's and Master's degree in Computational Linguistics. I've worked in the past with Dr. Tobias Grosser at the University of Edinburgh (currently at the University of Cambridge) and Dr. David Krueger at the University of Cambridge (currently at Mila).
 
-Beyond research, my hobbies include learning languages, books, movies ([here](https://letterboxd.com/Bani3141/)'s my Letterboxd), and history. Always happy to chat about research, or any of the above!
+Beyond research, my hobbies include learning languages, reading books, watching movies ([here](https://letterboxd.com/Bani3141/)'s my Letterboxd), and studying history. Always happy to chat about research, or any of the above!
