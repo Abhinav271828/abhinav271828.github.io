@@ -1,9 +1,9 @@
 ---
-title: "SAEs in Formal Languages"
-excerpt: "Dr. David Krueger (University of Cambridge)"
+title: "Neural Factual Inconsistency Classification"
+excerpt: "Dr. Manish Gupta (IIIT-H, Microsoft)"
 collection: portfolio
 ---
 
-Worked with [Dr. Ekdeep Singh Lubana](https://ekdeepslubana.github.io) and [Dr. David Krueger](https://davidscottkrueger.com) to investigate the properties of SAEs, particularly causality, through the lens of formal languages (specifically PCFGs). We train SAEs of various paradigms on formal languages of varying complexity, and conclude that SAEs require more guarantees in terms of robustness and causality than are presently available.
+Contributed to the dataset creation for a project aiming to develop baselines for the classification of factual inconsistencies.
 
-Submitted at MINT (NeuRIPS) '24.
+[Published](https://abhinav271828.github.io/publications/) at ECML PKDD '23.
