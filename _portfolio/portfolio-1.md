@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Neural Factual Inconsistency Classification"
+excerpt: "Dr. Manish Gupta (IIIT-H, Microsoft)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Contributed to the dataset creation for a project aiming to develop baselines for the classification of factual inconsistencies.
+
+[Published](https://abhinav271828.github.io/publications/) at ECML PKDD '23.
