@@ -1,14 +1,14 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Discrete Structures (undergrad course)"
+type: "Discrete Structures (undergraduate course)"
 permalink: /teaching/discrete_structures
 venue: "International Institute of Information Technology"
 date: 2022-10-01
 location: "Hyderabad, India"
 ---
 
-I worked as a Teaching Assistant for the Discrete structures course, which was meant to provide freshers with a grounding in basic abstract algebra and logic. This entailed setting and evaluating homework assignments and conducting refresher classes and clarification sessions.
+I worked as a Teaching Assistant for the Discrete Structures course, which was meant to provide freshers with a grounding in basic abstract algebra and logic. This entailed setting and evaluating homework assignments and conducting refresher classes and clarification sessions.
 
 The following topics were covered:
 

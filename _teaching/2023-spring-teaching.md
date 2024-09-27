@@ -1,7 +1,7 @@
 ---
 title: "Head Teaching Assistant"
 collection: teaching
-type: "Introduction to NLP (undergrad course)"
+type: "Introduction to NLP (undergraduate course)"
 permalink: /teaching/intro_to_nlp
 venue: "International Institute of Information Technology"
 date: 2023-01-01
