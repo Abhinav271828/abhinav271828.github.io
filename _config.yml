@@ -24,11 +24,11 @@ author:
   avatar           : "DSC_4180.jpg"
   name             : "Abhinav Menon"
   pronouns         : # example: "she/her"  
-  bio              : "Grad student and interpretability researcher."
+  bio              : "PhD candidate and interpretability researcher."
   # location         : "Hyderabad"
-  employer         : "IIIT Hyderabad"
+  employer         : "MPI Tübingen"
   uri              : # URL
-  email            : "abhinav.m@research.iiit.ac.in" 
+  email            : "abhinav.menon@tuebingen.mpg.de"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@Abhinav37465251"
+  twitter          : "@anscombes_razor"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
